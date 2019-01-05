@@ -18,6 +18,8 @@ const prod2 = {
   }
 }
 
+console.log(prod2)
+
 /* 
  * JSON, um acrônimo de JavaScript Object Notation, é um formato compacto, 
  * de padrão aberto independente, de troca de dados simples e rápida entre 
@@ -28,5 +30,3 @@ const prod2 = {
  * Acesso em: 05 jan. 2019. 
  */
 '{ "nome" : "Camisa Polo", "preco": 79.90}'
-
-console.log(prod2)

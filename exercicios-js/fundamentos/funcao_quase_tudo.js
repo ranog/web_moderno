@@ -1,4 +1,4 @@
 console.log(typeof Object)
 
-class Produto{} // toda classe é uma função
+class Produto{}
 console.log(typeof Produto)
